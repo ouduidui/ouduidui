@@ -34,6 +34,5 @@ JSON         2 hrs 34 mins   █▒░░░░░░░░░░░░░░░
 - [手写Mini框架（mini-vue2、mini-vue3、mini-webpack...）](https://github.com/OUDUIDUI/mini)
 - [适用于UniApp和微信小程序的谷歌统计 (Google Analytics) SDK](https://github.com/OUDUIDUI/ga-tracker)
 - [适用于UniApp的瀑布流组件](https://github.com/OUDUIDUI/uniapp-waterfalls-flow)
-- [用TS重构qs插件](https://github.com/OUDUIDUI/qs)
 
 
