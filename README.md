@@ -9,7 +9,6 @@
 - [偶尔逛逛掘金](https://juejin.cn/user/4309700183594366)
 - [偶尔看看书、看看电影](https://www.yuque.com/books/share/3ee1684b-8e19-4849-b5aa-13d1813ded6d)
 - [偶尔玩玩魔方](https://cubing.com/results/person/2014OUSH01)
-- 简历（待更）
 
 ---
 
