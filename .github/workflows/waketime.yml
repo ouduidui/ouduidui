@@ -25,6 +25,6 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: 'False'
           SHOW_SHORT_INFO: 'False'
           SHOW_LOC_CHART: False
-          SHOW_COMMIT: 'True'
+          SHOW_COMMIT: 'False'
           SHOW_LANGUAGE: 'True'
           SHOW_PROJECTS: 'True'
