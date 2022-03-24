@@ -15,6 +15,7 @@
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C390%20hrs%2058%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -27,5 +28,6 @@ Markdown                 4 hrs 16 mins       ██░░░░░░░░░�
 JSON                     2 hrs 23 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.42%
 
 ```
+
 
 <!--END_SECTION:waka-->
