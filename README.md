@@ -15,7 +15,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C390%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C391%20hrs%204%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -28,6 +28,10 @@ Markdown                 4 hrs 16 mins       ██░░░░░░░░░�
 JSON                     2 hrs 23 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.42%
 
 ```
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/ouduidui/ouduidui/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
