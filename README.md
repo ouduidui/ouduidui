@@ -15,7 +15,18 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C391%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C391%20hrs%2011%20mins-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    143 commits    ██████░░░░░░░░░░░░░░░░░░░   23.83% 
+🌆 Daytime    302 commits    ████████████░░░░░░░░░░░░░   50.33% 
+🌃 Evening    109 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.17% 
+🌙 Night      46 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.67%
+
+```
+
 
 📊 **This Week I Spent My Time On** 
 
@@ -28,10 +39,6 @@ Markdown                 4 hrs 16 mins       ██░░░░░░░░░�
 JSON                     2 hrs 23 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.42%
 
 ```
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/ouduidui/ouduidui/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
