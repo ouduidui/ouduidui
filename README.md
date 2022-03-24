@@ -9,14 +9,12 @@
     <a href="https://github.com/ouduidui/fe-study">study</a> |
     <a href="https://ouduidui.cn">blog</a>  |
     <a href="https://juejin.cn/user/4309700183594366">juejin</a> |
-    <a href="./images/wechat.jpeg">wechat</a> |
+    <a href="https://user-images.githubusercontent.com/54696834/159862985-5fbb577a-ba1b-4941-9f99-98cee13b7a60.jpeg">wechat</a> |
     <a href="https://twitter.com/ouduidui">twitter</a>
   </samp>
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C391%20hrs%2011%20mins-blue)
-
 **I'm an Early 🐤** 
 
 ```text
@@ -24,7 +22,6 @@
 🌆 Daytime    302 commits    ████████████░░░░░░░░░░░░░   50.33% 
 🌃 Evening    109 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.17% 
 🌙 Night      46 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.67%
-
 ```
 
 
@@ -37,7 +34,6 @@ Vue.js                   10 hrs 58 mins      ███████░░░░�
 JavaScript               4 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.66% 
 Markdown                 4 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   11.45% 
 JSON                     2 hrs 23 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.42%
-
 ```
 
 
