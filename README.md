@@ -15,7 +15,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C390%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C390%20hrs%2053%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -28,16 +28,6 @@ Markdown                 4 hrs 16 mins       ██░░░░░░░░░�
 JSON                     2 hrs 23 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.42%
 
 ```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               14 repos            ███████████████░░░░░░░░░░   60.87% 
-TypeScript               7 repos             ███████░░░░░░░░░░░░░░░░░░   30.43% 
-Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.7%
-
-```
-
 
 
 <!--END_SECTION:waka-->
