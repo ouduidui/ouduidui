@@ -15,7 +15,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C559%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C562%20hrs%202%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -31,8 +31,8 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 18 mins       ████████████████████████░   97.66 % 
-Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+TypeScript               3 hrs 52 mins       █████████████████████████   98.60 % 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 ```
 
 
