@@ -6,10 +6,8 @@
 
 <p align="center">
   <samp>
-    <a href="https://github.com/ouduidui/fe-study">study</a> |
     <a href="https://deweyou.me">blog</a>  |
     <a href="https://juejin.cn/user/4309700183594366">juejin</a> |
-    <a href="https://user-images.githubusercontent.com/54696834/165071004-6509e3f2-90c3-448c-9d92-3da42b0c2021.jpeg">wechat</a> |
     <a href="https://twitter.com/ouduidui">twitter</a>
   </samp>
 </p>
